@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I’m Tanvi Mahangre 👋
 
-<!--
-**tanviii16/tanviii16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a third-year Computer Engineering student interested in DevOps, Cloud Computing, and Linux Administration.
 
-Here are some ideas to get you started:
+## Currently Learning
+* Linux and Ubuntu
+* Git and GitHub
+* DevOps fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals
+* Build hands-on Linux administration projects
+* Improve my practical technical skills
+* Prepare for a DevOps or Cloud internship
+
+## Connect With Me
+- LinkedIn: [Tanvi Mahangre](https://www.linkedin.com/in/tanvi-mahangre-696715332/)
